@@ -9,5 +9,7 @@ Ons prototype bestaat uit deze delen:
 - WIFI-module
 - APP
 
-We hebben 3 verschillende sensoren om alle 5 de stoffen te meten. De waarden van de sensoren worden dan verstuurd naar de microcontroller. De microcontroller controleerd dan de waarden via het programma dat we ingeladen hebben. Via de WIFI-module worden de waarden verstuurd naar de APP. Op de APP kan je dan zien welke stoffen de sensoren meten en wat de waarden ervan zijn. Als de waarden niet meer juist zijn of je moet de sensoren reinigen gaat er een melding naar je gsm verstuurd worden.
+We hebben 3 verschillende sensoren om alle 5 de stoffen te meten. De gegevens van de sensoren worden dan verstuurd naar de microcontroller. De microcontroller controleerd dan de waarden via het programma dat we ingeladen hebben. Via de WIFI-module worden de waarden verstuurd naar de APP. Op de APP kan je dan zien welke stoffen de sensoren meten en wat de waarden ervan zijn. Als de waarden niet meer juist zijn of je moet de sensoren reinigen gaat er een melding naar je gsm verstuurd worden.
+
+Dit prototype leek ons ideaal om de waterkwaliteit te meten van je vijver.
 
